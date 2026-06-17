@@ -10,7 +10,7 @@ Clone this repository and open it in your editor of choice.
 
 - Fast setup
 - Clean structure
-- Ready to custommize
+- Ready to customize
 
 ## Contributing
 
